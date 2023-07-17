@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "0bda31de4693f3413d868ebdeb087940"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "29467528"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6321978196:AAF-9-aAzgRvLzXqYCL1ekCC-30SL9v86x8"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
-            "value": ""
+            "value": "5669981425"
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
@@ -40,31 +40,31 @@
         },
         "LOG_CHANNEL": {
             "description": "Log channel username, without using '@'.",
-            "value": ""
+            "value": "aryan121111"
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": ""
+            "value": "-1001709865811"
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
-            "value": ""
+            "value": "-1001616305924"
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
-            "value": ""
+            "value": "mongodb+srv://Abhi12:abhi12@cluster0.bdue3ap.mongodb.net/?retryWrites=true&w=majority"
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": ""
+            "value": "-1001623634751"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": ""
+            "value": "aryantvs"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": ""
+            "value": "encodehjr_x_bot"
         }
     },
     "buildpacks": [
